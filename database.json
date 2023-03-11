@@ -1,12 +1,17 @@
 {
-  "workspace": {},
+  "workspace": {
+    "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
+      "TechnocopiaPlant/ForkyRobot",
+      "1678561659834"
+    ]
+  },
   "studio-open-web": {},
   "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 20,
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
