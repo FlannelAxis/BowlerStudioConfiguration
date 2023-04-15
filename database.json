@@ -37,16 +37,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/FlannelAxis/sphere_FlannelAxis.git:sphere.groovy": [
-      "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
-      "sphere.groovy"
-    ],
-    "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git:ChamferedParts.groovy": [
-      "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git",
-      "ChamferedParts.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
