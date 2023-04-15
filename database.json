@@ -11,13 +11,22 @@
     "https://github.com/FlannelAxis/ShelvesTest.git": [
       "FlannelAxis/ShelvesTest",
       "1678570163372"
+    ],
+    "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git",
+      "1681581083626"
     ]
   },
   "studio-open-web": {},
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git:clojureDemo.clj": [
+      "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git",
+      "clojureDemo.clj"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
