@@ -12,6 +12,10 @@
       "FlannelAxis/ShelvesTest",
       "1678570163372"
     ],
+    "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
+      "1681587260546"
+    ],
     "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git": [
       "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git",
       "1681586208692"
@@ -33,6 +37,10 @@
     "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git:helloWorld.groovy": [
       "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git",
       "helloWorld.groovy"
+    ],
+    "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git:roundedcube.groovy": [
+      "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
+      "roundedcube.groovy"
     ]
   },
   "BowlerStudioConfigs": {
