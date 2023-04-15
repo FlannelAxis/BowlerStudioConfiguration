@@ -25,16 +25,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/FlannelAxis/pythonTest_FlannelAxis.git:pythonTest.py": [
-      "https://github.com/FlannelAxis/pythonTest_FlannelAxis.git",
-      "pythonTest.py"
-    ],
-    "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git:clojureDemo.clj": [
-      "https://github.com/FlannelAxis/clojureDemo_FlannelAxis.git",
-      "clojureDemo.clj"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
