@@ -12,6 +12,10 @@
       "FlannelAxis/ShelvesTest",
       "1678570163372"
     ],
+    "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git",
+      "1681588760092"
+    ],
     "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git": [
       "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
       "1681587260546"
@@ -30,17 +34,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/FlannelAxis/cube_FlannelAxis.git:cube.groovy": [
-      "https://github.com/FlannelAxis/cube_FlannelAxis.git",
-      "cube.groovy"
-    ],
-    "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git:helloWorld.groovy": [
-      "https://github.com/FlannelAxis/helloWorld_FlannelAxis.git",
-      "helloWorld.groovy"
-    ],
-    "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git:roundedcube.groovy": [
-      "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
-      "roundedcube.groovy"
+    "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git:ChamferedParts.groovy": [
+      "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git",
+      "ChamferedParts.groovy"
     ]
   },
   "BowlerStudioConfigs": {
