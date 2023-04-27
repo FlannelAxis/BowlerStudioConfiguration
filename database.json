@@ -42,10 +42,6 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/FlannelAxis/sphere_FlannelAxis.git:sphere.groovy": [
-      "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
-      "sphere.groovy"
-    ],
     "https://github.com/FlannelAxis/cylinder_FlannelAxis.git:cylinder.groovy": [
       "https://github.com/FlannelAxis/cylinder_FlannelAxis.git",
       "cylinder.groovy"
