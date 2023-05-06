@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git",
+      "1683395726541"
+    ],
     "https://github.com/TechnocopiaPlant/ForkyRobot.git": [
       "TechnocopiaPlant/ForkyRobot",
       "1678561659834"
@@ -42,9 +46,17 @@
     "printCSG": true
   },
   "studio-open-git": {
+    "https://github.com/FlannelAxis/sphere_FlannelAxis.git:sphere.groovy": [
+      "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
+      "sphere.groovy"
+    ],
     "https://github.com/FlannelAxis/cylinder_FlannelAxis.git:cylinder.groovy": [
       "https://github.com/FlannelAxis/cylinder_FlannelAxis.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git:RoundedCylinderTest.groovy": [
+      "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git",
+      "RoundedCylinderTest.groovy"
     ]
   },
   "BowlerStudioConfigs": {
