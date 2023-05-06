@@ -20,6 +20,10 @@
       "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
       "1681589843335"
     ],
+    "https://github.com/FlannelAxis/triangles_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/triangles_FlannelAxis.git",
+      "1683396040021"
+    ],
     "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git": [
       "https://github.com/FlannelAxis/ChamferedParts_FlannelAxis.git",
       "1681588760092"
@@ -49,6 +53,10 @@
     "https://github.com/FlannelAxis/sphere_FlannelAxis.git:sphere.groovy": [
       "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
       "sphere.groovy"
+    ],
+    "https://github.com/FlannelAxis/triangles_FlannelAxis.git:triangles.groovy": [
+      "https://github.com/FlannelAxis/triangles_FlannelAxis.git",
+      "triangles.groovy"
     ],
     "https://github.com/FlannelAxis/cylinder_FlannelAxis.git:cylinder.groovy": [
       "https://github.com/FlannelAxis/cylinder_FlannelAxis.git",
