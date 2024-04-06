@@ -48,6 +48,10 @@
       "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
       "1681587260546"
     ],
+    "https://github.com/FlannelAxis/difference_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/difference_FlannelAxis.git",
+      "1712425898153"
+    ],
     "https://github.com/FlannelAxis/cylinder_FlannelAxis.git": [
       "https://github.com/FlannelAxis/cylinder_FlannelAxis.git",
       "1682637154510"
@@ -73,6 +77,10 @@
     "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git:resizeScale.groovy": [
       "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git",
       "resizeScale.groovy"
+    ],
+    "https://github.com/FlannelAxis/difference_FlannelAxis.git:difference.groovy": [
+      "https://github.com/FlannelAxis/difference_FlannelAxis.git",
+      "difference.groovy"
     ]
   },
   "BowlerStudioConfigs": {
