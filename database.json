@@ -44,6 +44,10 @@
       "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git",
       "1712424627552"
     ],
+    "https://github.com/FlannelAxis/intersect_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/intersect_FlannelAxis.git",
+      "1712426390601"
+    ],
     "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git": [
       "https://github.com/FlannelAxis/roundedcube_FlannelAxis.git",
       "1681587260546"
@@ -77,6 +81,14 @@
     "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git:resizeScale.groovy": [
       "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git",
       "resizeScale.groovy"
+    ],
+    "https://github.com/FlannelAxis/intersect_FlannelAxis.git:intersect.groovy": [
+      "https://github.com/FlannelAxis/intersect_FlannelAxis.git",
+      "intersect.groovy"
+    ],
+    "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git:moveRotate.groovy": [
+      "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git",
+      "moveRotate.groovy"
     ],
     "https://github.com/FlannelAxis/difference_FlannelAxis.git:difference.groovy": [
       "https://github.com/FlannelAxis/difference_FlannelAxis.git",
