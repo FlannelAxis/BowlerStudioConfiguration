@@ -20,6 +20,10 @@
       "https://github.com/FlannelAxis/ToroidTest_FlannelAxis.git",
       "1685821231463"
     ],
+    "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git",
+      "1712425550204"
+    ],
     "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git": [
       "https://github.com/FlannelAxis/RoundedCylinderTest_FlannelAxis.git",
       "1683395726541"
@@ -66,13 +70,9 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git:ParabolaTest.groovy": [
-      "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git",
-      "ParabolaTest.groovy"
-    ],
-    "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git:moveRotate.groovy": [
-      "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git",
-      "moveRotate.groovy"
+    "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git:resizeScale.groovy": [
+      "https://github.com/FlannelAxis/resizeScale_FlannelAxis.git",
+      "resizeScale.groovy"
     ]
   },
   "BowlerStudioConfigs": {
