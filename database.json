@@ -28,6 +28,10 @@
       "TechnocopiaPlant/ForkyRobot",
       "1678561659834"
     ],
+    "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git",
+      "1712425258678"
+    ],
     "https://github.com/FlannelAxis/triangles_FlannelAxis.git": [
       "https://github.com/FlannelAxis/triangles_FlannelAxis.git",
       "1683396040021"
@@ -65,6 +69,10 @@
     "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git:ParabolaTest.groovy": [
       "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git",
       "ParabolaTest.groovy"
+    ],
+    "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git:moveRotate.groovy": [
+      "https://github.com/FlannelAxis/moveRotate_FlannelAxis.git",
+      "moveRotate.groovy"
     ]
   },
   "BowlerStudioConfigs": {
