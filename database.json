@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "https://github.com/FlannelAxis/ShelvesTest.git": [
-      "FlannelAxis/ShelvesTest",
-      "1678570163372"
-    ],
     "https://github.com/FlannelAxis/sphere_FlannelAxis.git": [
       "https://github.com/FlannelAxis/sphere_FlannelAxis.git",
       "1681589843335"
@@ -52,6 +48,10 @@
       "https://github.com/FlannelAxis/ParabolaTest_FlannelAxis.git",
       "1712424627552"
     ],
+    "https://github.com/FlannelAxis/printbed_FlannelAxis.git": [
+      "https://github.com/FlannelAxis/printbed_FlannelAxis.git",
+      "1712590778747"
+    ],
     "https://github.com/FlannelAxis/intersect_FlannelAxis.git": [
       "https://github.com/FlannelAxis/intersect_FlannelAxis.git",
       "1712426390601"
@@ -86,20 +86,8 @@
     "printCSG": true
   },
   "studio-open-git": {
-    "https://github.com/FlannelAxis/minkowskiAPI_FlannelAxis.git:minkowskiAPI.groovy": [
-      "https://github.com/FlannelAxis/minkowskiAPI_FlannelAxis.git",
-      "minkowskiAPI.groovy"
-    ],
-    "https://github.com/FlannelAxis/LoadSTL_FlannelAxis.git:LoadSTL.groovy": [
-      "https://github.com/FlannelAxis/LoadSTL_FlannelAxis.git",
-      "LoadSTL.groovy"
-    ],
-    "https://github.com/FlannelAxis/javaCadHull_FlannelAxis.git:javaCadHull.groovy": [
-      "https://github.com/FlannelAxis/javaCadHull_FlannelAxis.git",
-      "javaCadHull.groovy"
-    ],
-    "https://gist.github.com/b6ebfe4bb8210bb61c8a.git:printbed.json": [
-      "https://gist.github.com/b6ebfe4bb8210bb61c8a.git",
+    "https://github.com/FlannelAxis/printbed_FlannelAxis.git:printbed.json": [
+      "https://github.com/FlannelAxis/printbed_FlannelAxis.git",
       "printbed.json"
     ]
   },
