@@ -85,12 +85,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/FlannelAxis/printbed_FlannelAxis.git:printbed.json": [
-      "https://github.com/FlannelAxis/printbed_FlannelAxis.git",
-      "printbed.json"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
